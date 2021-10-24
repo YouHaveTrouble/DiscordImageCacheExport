@@ -1,2 +1,2 @@
 # DiscordImageCacheExport
-A script that allows you to view images saved by discord on your computer
+A windows script that allows you to view images saved by discord on your computer
